@@ -1,8 +1,6 @@
 dog
 cat
-<<<<<<< HEAD
-fish
-=======
 fish
 alternate universe fish
->>>>>>> alternate_universe
+
+alternate master
